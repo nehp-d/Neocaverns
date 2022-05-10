@@ -7,13 +7,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "rope_middle"
+    },
+    {
+      "name": "Bomb",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bomb"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.neocaverns.rope_middle": "Rope"
+      "block.neocaverns.rope_middle": "Rope",
+      "item.neocaverns.bomb": "Bomb"
     }
   },
   "foldersRoot": {
