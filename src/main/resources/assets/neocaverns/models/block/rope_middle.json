@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "neocaverns:blocks/rope_middle",
+    "particle": "neocaverns:blocks/rope_middle"
+  }
+}
